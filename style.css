@@ -225,7 +225,7 @@
   }
   
   .contacts-item:nth-child(1):before {
-    background-image: url("assets/svg/1.svg");
+    background-image: url("Assets/svg/1.svg");
   }
   
   .contacts-item:nth-child(2):before {
@@ -233,7 +233,7 @@
     left: 0px;
     width: 21px;
     height: 21px;
-    background-image: url("assets/svg/2.svg");
+    background-image: url("Assets/svg/2.svg");
   }
   
   .contacts-item:nth-child(3):before {
@@ -241,7 +241,7 @@
     left: 0px;
     width: 19px;
     height: 19px;
-    background-image: url("assets/svg/3.svg");
+    background-image: url("Assets/svg/3.svg");
   }
   
   .contacts-item:nth-child(4):before {
@@ -249,11 +249,11 @@
     left: 0px;
     width: 21px;
     height: 21px;
-    background-image: url("assets/svg/4.svg");
+    background-image: url("Assets/svg/4.svg");
   }
   
   .contacts-item:nth-child(5):before {
-    background-image: url("assets/svg/5.svg");
+    background-image: url("Assets/svg/5.svg");
   }
   
   .footer {
